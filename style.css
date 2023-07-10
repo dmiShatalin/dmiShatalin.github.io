@@ -1,18 +1,14 @@
-h1{
-    text-align: center;
-    margin: 40px 0 40px;
-    font-size: 30px;
-    color: red;
-    text-shadow: 2px 2px 4px #000;
-    font-family: cursive;
+marquee{
+color: #ff0000;
 }
+
 nav{
     margin: 27px auto 0;
     position: relative;
     width: 590px;
     height: 50px;
-    border-radius: 1px solid black;
-    box-shadow: 2px 2px 4px #000;
+    border-radius: 1px solid rgb(0, 0, 0);
+    box-shadow: 2px 2px 4px #000000;
 
 }
 
