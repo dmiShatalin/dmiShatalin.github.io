@@ -1,3 +1,6 @@
+h2{
+    color: #0059ff;
+}
 marquee{
 color: #ff0000;
 }
@@ -47,3 +50,4 @@ a:nth-child(3){
 a:nth-child(4){
     width:150px;
 }
+
